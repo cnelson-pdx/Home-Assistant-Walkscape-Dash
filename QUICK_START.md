@@ -44,7 +44,7 @@ If something doesn't work:
 
 - 📖 Read the [Setup Guide](SETUP_GUIDE.md)
 - 🎨 View [Lovelace Examples](LOVELACE_EXAMPLES.md)
-- 🐛 [Report an Issue](https://github.com/yourgithubusername/walkscape-homeassistant/issues)
+- 🐛 [Report an Issue](https://github.com/cnelson-pdx/Walkscape-HA/issues)
 - 💬 Ask in the Home Assistant Community forums
 
 ## Next Steps

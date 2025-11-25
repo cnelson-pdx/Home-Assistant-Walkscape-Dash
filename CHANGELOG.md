@@ -87,8 +87,8 @@ No known security issues. Please report any security concerns to the issue track
 
 ## Links
 
-- [GitHub Repository](https://github.com/yourgithubusername/walkscape-homeassistant)
-- [Issue Tracker](https://github.com/yourgithubusername/walkscape-homeassistant/issues)
+- [GitHub Repository](https://github.com/cnelson-pdx/Walkscape-HA)
+- [Issue Tracker](https://github.com/cnelson-pdx/Walkscape-HA/issues)
 - [WalkScape Official](https://walkscape.app/)
 - [Home Assistant](https://www.home-assistant.io/)
 - [HACS](https://hacs.xyz/)

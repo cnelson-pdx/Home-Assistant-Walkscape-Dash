@@ -36,7 +36,7 @@ sykotic-91f66c1e-08d5-4d94-a07a-5b685a45e68a
 4. Click the **three dots** menu in the top right
 5. Select **Custom repositories**
 6. Add this repository:
-   - **URL**: `https://github.com/yourgithubusername/walkscape-homeassistant`
+   - **URL**: `https://github.com/cnelson-pdx/Walkscape-HA`
    - **Category**: Integration
 7. Click **Add**
 
@@ -185,7 +185,7 @@ To track multiple characters:
 
 ## Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourgithubusername/walkscape-homeassistant/issues)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/cnelson-pdx/Walkscape-HA/issues)
 - **Home Assistant Community**: [Discuss in the forums](https://community.home-assistant.io/)
 - **WalkScape Discord**: Get help with character IDs and profile sharing
 
