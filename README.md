@@ -6,7 +6,7 @@
 
 A custom Home Assistant integration for tracking your WalkScape character statistics.
 
-![WalkScape](https://raw.githubusercontent.com/yourgithubusername/walkscape-homeassistant/main/images/walkscape_logo.png)
+![WalkScape](https://raw.githubusercontent.com/cnelson-pdx/Walkscape-HA/main/images/walkscape_logo.png)
 
 ## Features
 
@@ -24,7 +24,7 @@ A custom Home Assistant integration for tracking your WalkScape character statis
 2. Click on "Integrations"
 3. Click the three dots in the top right corner
 4. Select "Custom repositories"
-5. Add the repository URL: `https://github.com/yourgithubusername/walkscape-homeassistant`
+5. Add the repository URL: `https://github.com/cnelson-pdx/Walkscape-HA`
 6. Select category: "Integration"
 7. Click "Add"
 8. Click "Install" on the WalkScape card
@@ -108,7 +108,7 @@ automation:
 
 ## Support
 
-For issues, feature requests, or questions, please open an issue on the [GitHub repository](https://github.com/yourgithubusername/walkscape-homeassistant/issues).
+For issues, feature requests, or questions, please open an issue on the [GitHub repository](https://github.com/cnelson-pdx/Walkscape-HA/issues).
 
 ## Credits
 

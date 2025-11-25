@@ -1,12 +1,12 @@
 {
   "domain": "walkscape",
   "name": "WalkScape",
-  "codeowners": ["@yourgithubusername"],
+  "codeowners": ["@cnelson-pdx"],
   "config_flow": true,
-  "documentation": "https://github.com/yourgithubusername/walkscape-homeassistant",
+  "documentation": "https://github.com/cnelson-pdx/Walkscape-HA",
   "integration_type": "service",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/yourgithubusername/walkscape-homeassistant/issues",
+  "issue_tracker": "https://github.com/cnelson-pdx/Walkscape-HA/issues",
   "requirements": [],
   "version": "2025.11.1"
 }
